@@ -1,0 +1,21 @@
+﻿生成启动时间为 2017/8/29 17:20:22。
+     1>项目“E:\opencv project\cv_change_img_size\cv_change_img_size\cv_change_img_size.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         D:\Software\VS Ultimate 2012\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt cv_change_img_size.cpp
+         cv_change_img_size.cpp
+     1>d:\opencv-3.2.0_withsource\build\install\include\opencv2\core\mat.hpp(1926): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\opencv-3.2.0_withsource\build\install\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\opencv-3.2.0_withsource\build\install\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\opencv-3.2.0_withsource\build\install\include\opencv2\imgproc.hpp(617): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>e:\opencv project\cv_change_img_size\cv_change_img_size\cv_change_img_size.cpp(65): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 d:\software\vs ultimate 2012\vc\include\stdlib.h(909) : 参见“itoa”的声明
+     1>e:\opencv project\cv_change_img_size\cv_change_img_size\cv_change_img_size.cpp(24): warning C4101: “facej”: 未引用的局部变量
+     1>e:\opencv project\cv_change_img_size\cv_change_img_size\cv_change_img_size.cpp(21): warning C4101: “j”: 未引用的局部变量
+       Link:
+         D:\Software\VS Ultimate 2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\opencv project\cv_change_img_size\Debug\cv_change_img_size.exe" /INCREMENTAL /NOLOGO opencv_world320d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\opencv project\cv_change_img_size\Debug\cv_change_img_size.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\opencv project\cv_change_img_size\Debug\cv_change_img_size.lib" /MACHINE:X86 Debug\cv_change_img_size.obj
+         cv_change_img_size.vcxproj -> E:\opencv project\cv_change_img_size\Debug\cv_change_img_size.exe
+     1>已完成生成项目“E:\opencv project\cv_change_img_size\cv_change_img_size\cv_change_img_size.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.91
